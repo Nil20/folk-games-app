@@ -1,11 +1,6 @@
 # Folk Games (লোকখেলা)
 
-Traditional Bangladeshi outdoor games, rebuilt for your phone. Landscape, offline, in Bangla and
-English. The first game is **Kanamachi** (blind man's buff): play against AI kids, unlock new
-friends and rivals, and collect looks as you win.
-
-বাংলাদেশের ঐতিহ্যবাহী মাঠের খেলা, এবার ফোনে। অফলাইনে চলে, বাংলা ও ইংরেজি দুই ভাষাতেই।
-প্রথম খেলা **কানামাছি**: কম্পিউটারের খেলোয়াড়দের বিরুদ্ধে খেলুন, নতুন বন্ধু ও প্রতিদ্বন্দ্বী খুলুন।
+Android downloads. অ্যান্ড্রয়েডের জন্য ডাউনলোড।
 
 ## Download for Android
 
@@ -61,14 +56,11 @@ and keep your progress.
 
 ## Stay up to date
 
-- Open the link above again whenever a new version is out, and install over the old one.
-- Or use [Obtainium](https://obtainium.imranr.dev/): add this repository's URL as a source and it
-  tells you when a new release is out.
+The game tells you when a new version is ready (**Update now**). You can also open the link above
+again and install over the old version.
+
+নতুন সংস্করণ এলে গেমের ভেতরেই **Update now** দেখাবে। চাইলে ওপরের লিংক আবার খুলে পুরনোটির ওপর ইনস্টল করতে পারেন।
 
 ## Versions
 
-Every version is listed on the [Releases page](../../releases). Builds marked "(test build)" are
-release candidates that we are still testing.
-
-Android may warn that the app is from outside the Play Store. That is normal for apps you install
-yourself.
+All versions are on the [Releases page](../../releases).
