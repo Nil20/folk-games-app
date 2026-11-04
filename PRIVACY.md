@@ -22,4 +22,4 @@ never at night. Nothing about you is sent anywhere for them.
 
 **Changes:** if this policy changes, the new version will be posted here with a new date.
 
-**Contact:** (the owner's contact email)
+**Contact:** playkanamachi@gmail.com
