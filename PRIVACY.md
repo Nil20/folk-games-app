@@ -13,6 +13,9 @@ choose to copy a backup code, that code stays with you; we never receive it.
 **Tester diary:** the game can keep an optional diary of how your matches went (scores, round times), with no names or personal
 details. It stays on your phone and leaves it only if you choose to copy or share it yourself.
 
+**Reporting a bug:** "Report a bug" in Settings opens your own email app with the app version, your phone's model and Android
+version, and the game's last error message (if there was one) filled in. Nothing is sent unless you send that email yourself.
+
 **Internet:** the game does not need the internet to play. Google Play may update the app as it does any other app.
 
 **Notifications:** only if you turn them on (the game asks once, and there is a switch in Settings). They are made on your phone,
